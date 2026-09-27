@@ -1531,6 +1531,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Audiala](https://mcp.audiala.com/) `https://mcp.audiala.com/mcp`
   [![Audiala MCP connector](https://glama.ai/mcp/connectors/com.audiala/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.audiala/mcp)
   🔓 - Narrated audio guides for 45,000+ places in 1,900+ cities in 11 languages, with must-see lists.
+- [BookingTruth](https://bookingtruth.com) `https://api.bookingtruth.com/mcp`
+  [![BookingTruth MCP connector](https://glama.ai/mcp/connectors/com.bookingtruth/bookingtruth/badges/score.svg)](https://glama.ai/mcp/connectors/com.bookingtruth/bookingtruth)
+  🔓 - Verify booking and confirmation documents (emails, receipts): reconciled verdicts (confirmed/held/pending/cancelled/unknown) with citable proof packets - CONFIRMED only on supplier-authoritative evidence - plus supplier-coverage lookup. Free sandbox, no auth.
 - [erphome.pl](https://erphome.pl/en/api-rezerwacji-apartamentow) `https://api.erphome.pl/v1/mcp`
   [![erphome.pl MCP connector](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl/badges/score.svg)](https://glama.ai/mcp/connectors/pl.erphome.api/erphomepl)
   🔐 - Read-only data for Polish short-term rental owners: reservations, availability, pricing and reviews.
